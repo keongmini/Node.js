@@ -1,0 +1,8 @@
+// vscode에서 보는 로컬 세팅 관리 
+// 즉, 이 프로젝트에서 보는 세팅 모음
+{
+    "[javascript]": {
+        "editor.formatOnSave": true,        // 자동으로 prettier 적용
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
